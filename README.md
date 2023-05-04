@@ -10,3 +10,4 @@ Source code for DoS/DDoS attacking method and file config for DoS/DDoS defense m
 You could follow the steps in *apache-dos.conf* or simply run `bash config-dos.sh` in terminal
 ### IDS setup
 Simply run `bash setup-ids.sh` in terminal
+OK
