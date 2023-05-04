@@ -1,1 +1,0 @@
-This dir contains file config or source code for DoS defenses
